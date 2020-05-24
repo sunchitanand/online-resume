@@ -222,7 +222,7 @@ a:hover {
 }
 
 ul {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
 }
 
 li {
@@ -232,7 +232,7 @@ li {
 }
 
 .highlights>li>p {
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
 }
 
 h1 {
@@ -355,6 +355,7 @@ section .location {
     margin: .15em 0 0;
 }
 
+/* work experience, skills, projects...*/
 h2.section-title {
     display: inline-block;
     background: #0c0b0b;
@@ -421,6 +422,7 @@ h2.section-title {
     display: inline;
 }
 
+
 .position,
 .studyType,
 .area,
@@ -452,6 +454,13 @@ h2.section-title {
     font-weight: 600;
 }
 
+.credits {
+    font-size: 0.9rem;
+    display: inline-table;
+    padding: .1em 0;
+    float: right;
+}
+
 ul.keywords,
 ul.courses {
     margin-top: .5em;
@@ -474,11 +483,12 @@ ul.courses li {
 
 ul.keywords li:hover,
 ul.courses li:hover {
-    background: #dfeaf0;
+    background: #000000;
+    color: white;
 }
-
+/* Bullets/list and header */
 .item {
-    padding: .5em 0;
+    padding: 1.5em 0;
 }
 
 .gpa {
@@ -773,6 +783,7 @@ ul.courses li:hover {
     }
     .section header {
         padding-bottom: .15rem;
+        padding-top: 1rem;
     }
     .section .location {
         padding-bottom: .15rem;
@@ -1102,7 +1113,7 @@ ul.courses li:hover {
           <header>
             <div class="header-left">
               <div class="position">
-                Camera Train Generator
+                Camera Trail Generator
               </div>
               <div class="organization">
                 Computer Vision
@@ -1282,6 +1293,7 @@ ul.courses li:hover {
           </ul>
         </div>
       </section>
+      <p class="credits">© 2020. Created by <a href="https://www.sunchitanand.com">Sunchit Anand</a>.</p>
     </section>
 
   </body>
