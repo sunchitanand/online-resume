@@ -1,0 +1,218 @@
+{
+  "basics": {
+    "name": "Sunchit Anand",
+    "label": "Software Engineer | iOS Engineer | UI/UX/Graphic Designer",
+    "picture": "",
+    "email": "sunchit.anand@gmail.com",
+    "phone": "(608) 556-6353",
+    "website": "http://sunchitanand.com",
+    "summary": "I write software. Software for Enterprise Cloud, Mobile Devices and sometimes, Cameras and Sensors. I started working at Oracle after graduating from the University of Wisconsin-Madison with a major in Computer Science. When I'm not writing enterprise software, I write mobile apps. And when I'm not doing any of these, I sometimes design UI or graphics and read about Space, Rockets and the Future of Humanity.",
+    "location": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "GitHub",
+        "url": "https://github.com/sunchitanand"
+      },
+      {
+        "network": "linkedin",
+        "username": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sunchit-anand/"
+      },
+      {
+        "network": "twitter",
+        "username": "Twitter",
+        "url": "https://twitter.com/sunchitanand"
+      },
+      {
+        "network": "behance",
+        "username": "Behance",
+        "url": "https://www.behance.net/sunchitanand"
+      },
+      {
+        "network": "youtube",
+        "username": "YouTube",
+        "url": "https://www.youtube.com/channel/UC9rlqguPfWSbOctBclKQBUw"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Oracle",
+      "position": "Applications Engineer",
+      "website": "http://oracle.com",
+      "startDate": "2019-09-04",
+      "endDate": "",
+      "summary": "Oracle is an enterprise software company which delivers intelligent cloud business applications, cloud infrastructure and the world's first autonomous database. \n Developed and tested features for the Cost Management module of the service-oriented Fusion Supply Chain Applications suite.",
+      "highlights": [
+        "Designed and built a REST API to fetch overhead rates to be used internally in the pricing algorithm.",
+        "Documented development work with Product Manager to build the Functional Design Document.",
+        "Wrote multiple Automation Test scripts and Unit Tests for new enhancements (handling foreign currency purchase orders)."
+      ]
+    },
+    {
+      "company": "National Hydroelectric Power Corporation",
+      "position": "Software Engineer Intern",
+      "website": "http://oracle.com",
+      "startDate": "2016-06-04",
+      "endDate": "2016-07-10",
+      "summary": "",
+      "highlights": [
+        "Developed a map-based UI on the front-end team for the company’s Android application which was used internally to monitor the different geographically located power plants and flagged the ones that exceeded the power limit range.",
+        "App essentially reduced power outages and increased reliability", "Achieved 90% code coverage for UI tests through automated UI testing using Espresso."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "iOS app",
+      "position": "Dextr",
+      "website": "https://apps.apple.com/us/app/dextr/id1512349424",
+      "startDate": "2020-01-28",
+      "endDate": "",
+      "summary": "A digital replacement for Business Cards. In the light of COVID-19 where social distancing is key, at events, meetups and gatherings, Dextr lets you network better at events by enabling you to share your contact info with people in same event, and discover new people, all without physical contact, using Bluetooth.",
+      "highlights": [
+        "Designed and developed the app end to end -- from custom UI/UX Design on Figma to Swift code.",
+        "Serverless backend with Firebase and NoSQL Firestore database.",
+        "Main iOS Frameworks used: CoreBluetooth, UIKit.",
+        "Open Source third-party frameworks: SideMenuSwift",
+        "Design Patterns used: Model-View-Controller; Singleton, Delegate-Protocol",
+        "Next Feature Release: A feed for people to interact digitally at events"
+      ]
+    },
+    {
+      "organization": "Computer Vision",
+      "position": "Camera Train Generator",
+      "website": "https://github.com/sunchitanand/camera-path-generator",
+      "startDate": "2019-01-28",
+      "endDate": "2019-02-27",
+      "summary": "",
+      "highlights": [ 
+        "Implemented the state-of-the art ORB2SLAM algorithm for Monocular Visual Odometry (which is optimized for outdoors) for indoor environments using Python and OpenCV to be used in supermarket carts to analyze grocery shelf usage/popularity.",
+        "The directions of the generated trail had an accuracy of 80% depending upon the motion stability of the camera trail."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Madison",
+      "area": "Computer Science",
+      "studyType": "Bachelors in",
+      "startDate": "2017-08-28",
+      "endDate": "2019-05-10",
+      "gpa": "3.4",
+      "courses": [
+        "Artificial Intelligence",
+        "Computer networks",
+        "Software Engineering",
+        "Operating Systems",
+        "Computational Photography",
+        "Data Management for Data Science",
+        "Applied Cryptography"
+      ]
+    },
+    {
+      "institution": "Manipal University",
+      "area": "Computer Science",
+      "studyType": "Transfer Programme | ",
+      "startDate": "2015-08-28",
+      "endDate": "2017-05-10",
+      "gpa": "3.4",
+      "courses": [
+        "Computer Architecture",
+        "Database Management Systems",
+        "Electronic Devices & Computer Interfacing",
+        "Combinational & Sequential Logic",
+        "Computer Organization & Assembly Language Programming",
+        "Language Processors",
+        "Formal Languages & Automata Theory",
+        "Algorithms & Data Structures"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Professional Scrum Master I",
+      "publisher": "",
+      "releaseDate": "2020-03-01",
+      "website": "https://www.scrum.org/user/642990",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Python",
+        "Swift",
+        "SQL",
+        "Oracle",
+        "html",
+        "css",
+        "javascript"
+      ]
+    },
+    {
+      "name": "iOS Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Swift",
+        "Auto Layout",
+        "UIKit",
+        "corebluetooth"
+      ]
+    },
+    {
+      "name": "UI/Graphic Design",
+      "level": "Intermediate",
+      "keywords": [
+        "figma",
+        "photoshop",
+        "illustrator",
+        "xd"
+      ]
+    },
+    {
+      "name": "Computer Vision/ Computational Photography",
+      "level": "Beginner",
+      "keywords": [
+        "opencv",
+        "matlab",
+        "python"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Space",
+      "keywords": [
+        "Rockets",
+        "Astrophysics",
+        "Cosmos"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "Deep Reinforcement Learning",
+        "Pytorch",
+        "Simulations"
+      ]
+    },
+    {
+      "name": "Blockchain Fundamentals",
+      "keywords":[
+        "DAOs",
+        "Smart Contracts",
+        "Cryptoeconomics",
+        "Decentralized Crowdsourced News"
+      ]
+    }
+  ]
+}
